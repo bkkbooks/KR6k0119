@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6k0119/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西天譯經三藏朝散大夫試鴻臚卿傳法大師臣施護奉詔譯如是我聞一時佛在舍衛國祇樹給孤獨園爾時世尊告苾芻言有破壞戒行壽命者有斷滅善根者出家難值發精進心堅固守護若諸苾芻等於佛法中求解脫者遠離一切諸惡苦惱如佛所說寧捨身命而趣無常不得縱心犯其戒律若人捨命只壞一生若復破戒令百萬生沈淪惡道若人持戒當得見佛戒為最上莊嚴戒為最上妙香戒為歡喜勝因戒體清淨如清冷水能除熱惱戒法最大世間呪法龍蛇之毒而不能侵持戒得名聞持戒獲安樂如是命終時復得生天上佛言苾芻若犯律儀譬如盲人不見衆色亦如無足不能行道遠離涅槃不到彼岸若持戒人成就一切法寶譬如賢瓶圓滿堅固能盛一切珍寶如是破損珍寶散失若破律儀則捨一切善法先曾犯戒而後心欲求涅盤如去眼耳對鏡照面何所堪能佛言苾芻女人無信不可親近王恩雖勝不可恃怙水沫無實不可撮摩富貴無常不可久住色相如花須臾變異壽如熟果不可久停如急流渡船如朽屋暫住寧食毒藥不得飲酒寧入大火不得嗜欲佛說是經已時彼苾芻及諸菩薩皆大歡喜信受奉行
+  hash: sha256:182bffb1df04a872aa67ec97facc37f5789d3211b9fe15fade558a8b58eebbc0
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說大乘戒經, id: KR6k0119_T_001-juan-start, juan_n: '001', jhead: 佛說大乘戒經}
+  - {type: 'cbeta:juan-end', offset: 406, content: 佛說大乘戒經, id: KR6k0119_T_001-juan-end, juan_n: '001', jhead: 佛說大乘戒經}
+metadata:
+  title: 佛說大乘戒經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1497.xml
+    old_id: T24n1497
+hash: sha256:c8aea05cb817234abcc01b23b2defc86081fc1a5c62ef031d085e5af21dc8172
